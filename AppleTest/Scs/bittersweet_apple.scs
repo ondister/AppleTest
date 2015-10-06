@@ -1,0 +1,5 @@
+bittersweet_apple<-class_apple;;
+bittersweet_apple => nrel_main_idtf:[BitterSweet Apple*] (*  <- lang_en;;*);;
+bittersweet_apple => nrel_main_idtf:[Горько-сладкое яблоко*] (*  <- lang_ru;;*);;
+bittersweet_apple => nrel_price:[5,5];;
+bittersweet_apple => nrel_quantity:[10,2];;

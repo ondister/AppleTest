@@ -1,0 +1,9 @@
+D:\OSTIS\AppleTest\AppleTest\bin\Debug\AppleTest.exe.config
+D:\OSTIS\AppleTest\AppleTest\obj\Debug\AppleTest.csprojResolveAssemblyReference.cache
+d:\OSTIS\AppleTest\AppleTest\bin\Debug\AppleTest.exe
+d:\OSTIS\AppleTest\AppleTest\bin\Debug\AppleTest.pdb
+d:\OSTIS\AppleTest\AppleTest\bin\Debug\Ostis.Sctp.dll
+d:\OSTIS\AppleTest\AppleTest\bin\Debug\Ostis.Sctp.pdb
+d:\OSTIS\AppleTest\AppleTest\bin\Debug\Ostis.Sctp.xml
+d:\OSTIS\AppleTest\AppleTest\obj\Debug\AppleTest.exe
+d:\OSTIS\AppleTest\AppleTest\obj\Debug\AppleTest.pdb
